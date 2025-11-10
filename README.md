@@ -62,7 +62,7 @@ Open the file called main.py. In the file, update this line of code:
 database_connection = psycopg2.connect(database="", user="", password="", host="localhost", port=5432)
 ```
 
-and include your PostgreSQL credentials: database, user, password, host
+and include your PostgreSQL credentials: your database's name, your username, your password, and your host
 
 To run the application, enter:
 
@@ -75,3 +75,4 @@ python main.py
 ## Video Link
 
 Here's the link to my video:
+
