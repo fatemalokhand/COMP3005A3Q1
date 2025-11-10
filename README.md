@@ -74,5 +74,4 @@ python main.py
 
 ## Video Link
 
-Here's the link to my video:
-
+Here's the link to my video: https://www.youtube.com/watch?v=-NlP8CKXUyM  
